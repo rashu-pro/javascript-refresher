@@ -1,0 +1,19 @@
+{
+  "name": "0.11-javascript-refresher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "arrays.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rashu-pro/javascript-refresher.git"
+  },
+  "author": "rashu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rashu-pro/javascript-refresher/issues"
+  },
+  "homepage": "https://github.com/rashu-pro/javascript-refresher#readme"
+}
