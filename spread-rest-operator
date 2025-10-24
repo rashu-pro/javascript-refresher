@@ -1,0 +1,9 @@
+
+const a = [1, 2, 3, 2, 4];
+
+/**
+ * Demonstrates the usage of the spread operator to copy an array.
+ * Creates a shallow copy of array 'a' into 'copiedArray'.
+ */
+const copiedArray = [...a];
+console.log(copiedArray); // Output: [1, 2, 3, 2, 4]
